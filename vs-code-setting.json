@@ -1,0 +1,156 @@
+{
+	"editor.fontSize": 18,
+	"editor.suggestSelection": "first",
+	"editor.rulers": [80],
+	"editor.fontFamily": "Cartograph CF Thin",
+	"editor.fontWeight": "normal",
+	"editor.lineHeight": "1.7",
+	"editor.fontLigatures": true,
+	"editor.guides.bracketPairsHorizontal": true,
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[kotlin]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.factorypath": true,
+		"**/.html": true,
+		"**/.project": true,
+		"**/.settings": true
+	},
+	"git.autofetch": true,
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb",
+		"*.pdf": "pdf.preview"
+	},
+	"java.home": "/usr/lib/jvm/jdk-17.0.1+12",
+	"java.configuration.runtimes": [
+		{
+			"name": "JavaSE-11",
+			"path": "/usr/lib/jvm/java-11-openjdk-amd64/"
+		},
+		{
+			"name": "JavaSE-17",
+			"path": "/usr/lib/jvm/jdk-17.0.1+12/"
+		}
+	],
+	"code-runner.clearPreviousOutput": true,
+	"code-runner.runInTerminal": true,
+	"tabnine.experimentalAutoImports": true,
+	"git.enableSmartCommit": true,
+	"explorer.confirmDelete": false,
+	"git.confirmSync": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"explorer.confirmDragAndDrop": false,
+	"scm.inputFontSize": 16,
+	"debug.console.fontSize": 18,
+	"terminal.integrated.fontSize": 19,
+	"editor.inlineSuggest.enabled": true,
+	"quokka.showCodeLensInOutputChannel": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"files.autoSave": "afterDelay",
+	"vscode-edge-devtools.mirrorEdits": true,
+	"liveshare.presence": true,
+	"bracketPairColorizer.depreciation-notice": false,
+	"markdown.preview.fontSize": 18,
+	"latex-workshop.view.pdf.viewer": "tab",
+	"[dart]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.rulers": [80],
+		"editor.selectionHighlight": false,
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
+		"editor.suggestSelection": "first",
+		"editor.tabCompletion": "onlySnippets",
+		"editor.wordBasedSuggestions": false
+	},
+	"cSpell.customDictionaries": {
+		"custom-dictionary-user": {
+			"name": "custom-dictionary-user",
+			"path": "~/.cspell/custom-dictionary-user.txt",
+			"addWords": true,
+			"scope": "user"
+		}
+	},
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"turboConsoleLog.addSemicolonInTheEnd": true,
+	"turboConsoleLog.insertEnclosingClass": false,
+	"turboConsoleLog.insertEnclosingFunction": false,
+	"turboConsoleLog.logMessagePrefix": "",
+	"turboConsoleLog.delimiterInsideMessage": "",
+	"window.zoomLevel": 1,
+	"vscode-edge-devtools.useHttps": true,
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"git.ignoreRebaseWarning": true,
+	"terminal.integrated.cursorBlinking": true,
+	"editor.cursorBlinking": "expand",
+	"workbench.colorCustomizations": {
+		"editorCursor.foreground": "#ffff00",
+		"terminalCursor.foreground": "#ffff00",
+		"editorRuler.foreground": "#575757"
+	},
+	"trunk.trunkGrayOutNonBlockingIssues": false,
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"trunk.inlineDecoratorsForAllExtensions": true,
+	"trunk.trace.server": "messages",
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": true,
+		"markdown": true,
+		"javascript": true,
+		"html": true,
+		"python": true,
+		"javascriptreact": true,
+		"cpp": true
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.wordWrap": "bounded",
+	"html.format.wrapAttributes": "preserve-aligned",
+	"workbench.colorTheme": "Dracula Soft",
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"[java]": {
+		"editor.defaultFormatter": "redhat.java"
+	},
+	"prettier.jsxSingleQuote": true,
+	"prettier.jsSingleQuote": true,
+	"typescript.preferences.quoteStyle": "single",
+	"javascript.preferences.quoteStyle": "single",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"prettier.singleQuote": true,
+	"[markdown]": {
+		"editor.wordWrap": "bounded",
+		"editor.wordWrapColumn": 80
+	},
+	"git.enableCommitSigning": true,
+	"git.postCommitCommand": "sync",
+	"remove-empty-lines.runOnSave": true,
+	"remove-empty-lines.allowedNumberOfEmptyLines": 0,
+	"[csharp]": {
+		"editor.defaultFormatter": "ms-dotnettools.csharp"
+	}
+}
